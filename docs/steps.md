@@ -337,7 +337,7 @@ To learn Haskell, try any of those:
 
 - A beginner-friendly [4-lectures course](https://github.com/haskell-beginners-2022/course-plan) with exercises (by [Dmitrii Kovanikov](https://kodimensional.dev/))
 - An ultra-pragmatic [quick-start](https://typeclasses.com/phrasebook) (by [Mission Valley Software](https://typeclasses.com/company))
-- A potentially credit-yielding [massive open online course] (by [University of Helsinki](https://www.helsinki.fi))
+- A potentially credit-yielding [massive open online course](by [University of Helsinki](https://www.helsinki.fi))
 - An in-depth university [CIS 194 Haskell course](https://www.cis.upenn.edu/~cis194/spring13/) including exercises (by [Brent Yorgey](https://byorgey.wordpress.com/))
 
 ## Projects to contribute to
